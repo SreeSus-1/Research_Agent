@@ -1,8 +1,3 @@
-Here is a **clean, professional, copy-paste–ready README section**, rewritten to look polished and perfect for GitHub.
-I kept **structure, clarity, formatting, emojis, and developer friendliness** exactly how high-quality OSS READMEs are written.
-
-
-
 # **Research_Paper_Analyst**
 
 ### *A multi-agent system that reads research PDFs, builds context, searches the web, and generates a clear summary*
